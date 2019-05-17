@@ -1,3 +1,8 @@
+# React-Phone-Input-2-polyfill
+
+This repo is a clone of the below `React-Phone-Input-2 (2.9.3)` The below repo however does not support IE.
+This package has the necessary polyfills required for it to work. Namely `String.prototype.startsWith`
+
 # React-Phone-Input-2
 Highly customizable phone input component with auto formatting.
 

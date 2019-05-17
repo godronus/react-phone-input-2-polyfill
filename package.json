@@ -1,7 +1,7 @@
 {
-  "name": "react-phone-input-2",
-  "version": "2.9.3",
-  "description": "A react component to format phone numbers",
+  "name": "react-phone-input-2-polyfill",
+  "version": "2.9.3-1",
+  "description": "react-phone-input-2 with startsWith polyfill",
   "main": "dist/lib.js",
   "scripts": {
     "test": "jest",
